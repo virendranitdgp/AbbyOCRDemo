@@ -15,9 +15,9 @@ import java.util.*;
 public class ClientSettings {
 
    // Name of application you created
-	public static final String APPLICATION_ID = "896707c3-3c8d-4fef-95e9-4ae25c6eb71f";
+	public static final String APPLICATION_ID = "";
 	// Password should be sent to your e-mail after application was created
-	public static final String PASSWORD = "xJ/3j0kc8smTG9PvaDEA/cAY";
+	public static final String PASSWORD = "";
 	
 	public static void setupProxy()
 	{
