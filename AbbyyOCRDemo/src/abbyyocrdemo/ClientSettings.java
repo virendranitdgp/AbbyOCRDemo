@@ -11,7 +11,7 @@ package abbyyocrdemo;
  */
 public class ClientSettings {
 
-    public static final String APPLICATION_ID = "896707c3-3c8d-4fef-95e9-4ae25c6eb71f";
-    public static final String PASSWORD = "xJ/3j0kc8smTG9PvaDEA/cAY";
+    public static final String APPLICATION_ID = "";
+    public static final String PASSWORD = "";
 
 }
